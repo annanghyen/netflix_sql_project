@@ -1,6 +1,6 @@
 # Netflix Movies and Tv Shows Data Analysis using SQL/
 
-![Netflix Logo](https://github.com/annanghyen/netflix_sql_project/blob/main/BrandAssets_Logos_01-Wordmark.jpg)
+![Netflix Logo](https://github.com/annanghyen/netflix_sql_project/blob/main/logo.png)
 
 #Overview 
 In this project we take a deep dive into Netflix's movies and TV shows using SQL to analyze trends, patterns, and relationships. The goal for this project was to uncover useful insights and answer real life business questions that could inform content strategy and audience engagment. 
